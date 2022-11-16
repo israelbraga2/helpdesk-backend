@@ -2,7 +2,6 @@ package com.israel.helpdesk.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.israel.helpdesk.domain.Cliente;
 import com.israel.helpdesk.domain.Tecnico;
 
 
